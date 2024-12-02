@@ -32,8 +32,8 @@ Welcome to the **Text Processing Tools** project! This tool is designed to add a
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/TNZEROIT/Text-Processing-Tools.git
-   cd Text-Processing-Tools
+   git clone https://github.com/TNZEROIT/TEXT-PROCESSING-TOOLS
+   cd TEXT-PROCESSING-TOOLS
    ```
 
 2. Install the required library:
